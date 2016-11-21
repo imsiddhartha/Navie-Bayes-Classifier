@@ -1,4 +1,4 @@
-Implemented the Naïve Bayes (NB) classifier for two different datasets from the UCI Machine learning repository (http://archive.ics.uci.edu/ml/),namely the Bank Marketing Dataset (http://archive.ics.uci.edu/ml/datasets/Bank+Marketing) and Breast Cancer Wisconsin Dataset (http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
+Implemented the Naïve Bayes (NB) classifier for two different datasets from the UCI Machine learning repository (http://archive.ics.uci.edu/ml/), namely the Bank Marketing Dataset (http://archive.ics.uci.edu/ml/datasets/Bank+Marketing) and Breast Cancer Wisconsin Dataset (http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 
 DATASET:
 	In the first dataset (Bank Marketing Dataset), work with only Discrete/Categorical Data and I have not considered the continuous 		valued features.

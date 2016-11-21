@@ -3,7 +3,6 @@ Implemented the Naïve Bayes (NB) classifier for two different datasets from the
 DATASET:
 	In the first dataset (Bank Marketing Dataset), work with only Discrete/Categorical Data and I have not considered the continuous 		valued features.
 	So, I made a subset of the Bank Marketing dataset consisting of discrete valued features only as BankMarketing_Discrete dataset and 	work with this.
-	
 	For the second dataset (Cancer Dataset), all the features (attributes) are continuous. So,I have to use Gaussian Naïve Bayes (GNB) 		approach wherein you need to estimate Mean and Variance of each attribute and use Gaussian Model for estimating the Likelihoods.
 
 RESULTS:
